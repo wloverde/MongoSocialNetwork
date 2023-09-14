@@ -14,7 +14,7 @@ const userSchema = new Schema(
       required: true,
       unique: true,
       match: [
-        /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/,
+        /^([\w-\.]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/,
         "Email invalid",
       ],
     },
