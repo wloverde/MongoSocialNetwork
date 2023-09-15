@@ -23,7 +23,7 @@ To install necessary dependencies, run the following command:
     
 ## Usage
     
-![Screencastify tutorial](assets/images/https://drive.google.com/file/d/14kkb4Cb1JIc0dwWMrY3ebNS7T0oJyapt/view)
+![Screencastify tutorial](https://drive.google.com/file/d/1yRYIFz1KlC7r9pAqJMHUG1IN09Smtu2v/view)
     
 ## Credits
     
